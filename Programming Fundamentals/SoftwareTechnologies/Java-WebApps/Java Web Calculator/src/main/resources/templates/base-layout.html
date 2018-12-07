@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Calculator</title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+    <script src="/javascripts/jquery-1.10.2.js"></script>
+    <script src="/javascripts/bootstrap.js"></script>
+</head>
+<body style="background: url(https://i.pinimg.com/originals/72/e0/14/72e0142078822cc670f8a05ba0f05b80.jpg)">
+<header>
+    <div class="navbar navbar-default navbar-fixed-top text-uppercase">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="/" class="navbar-brand">Calculator</a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="container body-content span=8 offset=2">
+    <div class="well">
+        <main th:include="${view}"></main>
+    </div>
+</div>
+</body>
+<footer>
+    <div class="container modal-footer">
+        <strong style="color: darkred">&copy; 2017 - Software University Foundation</strong>
+    </div>
+</footer>
+</html>
