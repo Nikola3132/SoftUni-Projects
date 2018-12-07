@@ -1,0 +1,11 @@
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\bin\Debug\netcoreapp2.1\DItests.deps.json
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\bin\Debug\netcoreapp2.1\DItests.runtimeconfig.json
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\bin\Debug\netcoreapp2.1\DItests.runtimeconfig.dev.json
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\bin\Debug\netcoreapp2.1\DItests.dll
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\bin\Debug\netcoreapp2.1\DItests.pdb
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\obj\Debug\netcoreapp2.1\DItests.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\obj\Debug\netcoreapp2.1\DItests.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\obj\Debug\netcoreapp2.1\DItests.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\obj\Debug\netcoreapp2.1\DItests.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\obj\Debug\netcoreapp2.1\DItests.dll
+C:\Users\nikolaviktor3132\source\repos\DItests\DItests\obj\Debug\netcoreapp2.1\DItests.pdb
