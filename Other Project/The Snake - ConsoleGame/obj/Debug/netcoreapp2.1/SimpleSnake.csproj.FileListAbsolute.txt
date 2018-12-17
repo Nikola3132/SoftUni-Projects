@@ -9,3 +9,14 @@ C:\Users\nikolaviktor3132\AppData\Local\Temp\Temp1_06. CSharp-OOP-Basics-Worksho
 C:\Users\nikolaviktor3132\AppData\Local\Temp\Temp1_06. CSharp-OOP-Basics-Workshop-SimpleSnake.zip\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
 C:\Users\nikolaviktor3132\AppData\Local\Temp\Temp1_06. CSharp-OOP-Basics-Workshop-SimpleSnake.zip\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
 C:\Users\nikolaviktor3132\AppData\Local\Temp\Temp1_06. CSharp-OOP-Basics-Workshop-SimpleSnake.zip\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\nikolaviktor3132\Desktop\n\SoftUni-Projects\Other Project\The Snake - ConsoleGame\obj\Debug\netcoreapp2.1\SimpleSnake.pdb

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikolaviktor3132\\AppData\\Local\\Temp\\Temp1_06. CSharp-OOP-Basics-Workshop-SimpleSnake.zip\\SimpleSnake\\SimpleSnake.csproj",
+      "projectUniqueName": "C:\\Users\\nikolaviktor3132\\Desktop\\n\\SoftUni-Projects\\Other Project\\The Snake - ConsoleGame\\SimpleSnake.csproj",
       "projectName": "SimpleSnake",
-      "projectPath": "C:\\Users\\nikolaviktor3132\\AppData\\Local\\Temp\\Temp1_06. CSharp-OOP-Basics-Workshop-SimpleSnake.zip\\SimpleSnake\\SimpleSnake.csproj",
+      "projectPath": "C:\\Users\\nikolaviktor3132\\Desktop\\n\\SoftUni-Projects\\Other Project\\The Snake - ConsoleGame\\SimpleSnake.csproj",
       "packagesPath": "C:\\Users\\nikolaviktor3132\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikolaviktor3132\\AppData\\Local\\Temp\\Temp1_06. CSharp-OOP-Basics-Workshop-SimpleSnake.zip\\SimpleSnake\\obj\\",
+      "outputPath": "C:\\Users\\nikolaviktor3132\\Desktop\\n\\SoftUni-Projects\\Other Project\\The Snake - ConsoleGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
