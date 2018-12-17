@@ -9,10 +9,7 @@
     using TheTankGame.Entities.Parts.Contracts;
     using TheTankGame.Entities.Vehicles;
     using TheTankGame.Entities.Vehicles.Contracts;
-
-    //341
-    //400
-
+    
     [TestFixture]
     public class BaseVehicleTests
     {
