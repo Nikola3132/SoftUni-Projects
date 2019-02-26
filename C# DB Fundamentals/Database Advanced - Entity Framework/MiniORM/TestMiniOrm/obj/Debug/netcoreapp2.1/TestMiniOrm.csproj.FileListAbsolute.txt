@@ -1,0 +1,14 @@
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\bin\Debug\netcoreapp2.1\TestMiniOrm.deps.json
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\bin\Debug\netcoreapp2.1\TestMiniOrm.runtimeconfig.json
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\bin\Debug\netcoreapp2.1\TestMiniOrm.runtimeconfig.dev.json
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\bin\Debug\netcoreapp2.1\TestMiniOrm.dll
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\bin\Debug\netcoreapp2.1\TestMiniOrm.pdb
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\bin\Debug\netcoreapp2.1\MiniORM.dll
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\bin\Debug\netcoreapp2.1\MiniORM.pdb
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\obj\Debug\netcoreapp2.1\TestMiniOrm.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\obj\Debug\netcoreapp2.1\TestMiniOrm.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\obj\Debug\netcoreapp2.1\TestMiniOrm.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\obj\Debug\netcoreapp2.1\TestMiniOrm.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\obj\Debug\netcoreapp2.1\TestMiniOrm.csproj.CopyComplete
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\obj\Debug\netcoreapp2.1\TestMiniOrm.dll
+C:\Users\nikolaviktor3132\Desktop\solution\TestMiniOrm\obj\Debug\netcoreapp2.1\TestMiniOrm.pdb
