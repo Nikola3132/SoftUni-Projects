@@ -1,0 +1,11 @@
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.json
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.dev.json
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\nikolaviktor3132\source\repos\Code-First\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
