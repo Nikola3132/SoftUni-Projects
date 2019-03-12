@@ -1,0 +1,11 @@
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.deps.json
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.json
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.dev.json
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.dll
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.pdb
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csprojAssemblyReference.cache
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csproj.CoreCompileInputs.cache
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfoInputs.cache
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfo.cs
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.dll
+c:\users\nikolaviktor3132\source\repos\StudentSystem\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.pdb
