@@ -1,0 +1,9 @@
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Models\bin\Debug\netcoreapp2.1\BillPaymentSystem.Models.deps.json
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Models\bin\Debug\netcoreapp2.1\BillPaymentSystem.Models.dll
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Models\bin\Debug\netcoreapp2.1\BillPaymentSystem.Models.pdb
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillPaymentSystem.Models.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillPaymentSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillPaymentSystem.Models.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillPaymentSystem.Models.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillPaymentSystem.Models.dll
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Models\obj\Debug\netcoreapp2.1\BillPaymentSystem.Models.pdb

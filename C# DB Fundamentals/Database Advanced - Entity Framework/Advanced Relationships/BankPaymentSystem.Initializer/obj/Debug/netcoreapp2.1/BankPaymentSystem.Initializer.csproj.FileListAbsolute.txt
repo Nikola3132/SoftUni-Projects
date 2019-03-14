@@ -1,0 +1,14 @@
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.deps.json
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.dll
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.pdb
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\BillPaymentSystem.Data.dll
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\BillPaymentSystem.Models.dll
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\BillPaymentSystem.Data.pdb
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\bin\Debug\netcoreapp2.1\BillPaymentSystem.Models.pdb
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.csproj.CopyComplete
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.dll
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BankPaymentSystem.Initializer\obj\Debug\netcoreapp2.1\BankPaymentSystem.Initializer.pdb

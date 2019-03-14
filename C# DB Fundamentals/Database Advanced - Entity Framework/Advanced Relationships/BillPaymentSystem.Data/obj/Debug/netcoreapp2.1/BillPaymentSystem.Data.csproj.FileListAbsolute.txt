@@ -1,0 +1,14 @@
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillPaymentSystem.Data.deps.json
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillPaymentSystem.Data.runtimeconfig.json
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillPaymentSystem.Data.runtimeconfig.dev.json
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillPaymentSystem.Data.dll
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillPaymentSystem.Data.pdb
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillPaymentSystem.Models.dll
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillPaymentSystem.Models.pdb
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillPaymentSystem.Data.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillPaymentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillPaymentSystem.Data.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillPaymentSystem.Data.csproj.CopyComplete
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillPaymentSystem.Data.dll
+C:\Users\nikolaviktor3132\Desktop\11. Advanced Relations - Exercise\BillPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillPaymentSystem.Data.pdb
