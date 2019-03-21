@@ -1,0 +1,16 @@
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\bin\Debug\netcoreapp2.1\IT_Firm_DB.deps.json
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\bin\Debug\netcoreapp2.1\IT_Firm_DB.runtimeconfig.json
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\bin\Debug\netcoreapp2.1\IT_Firm_DB.runtimeconfig.dev.json
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\bin\Debug\netcoreapp2.1\IT_Firm_DB.dll
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\obj\Debug\netcoreapp2.1\IT_Firm_DB.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\obj\Debug\netcoreapp2.1\IT_Firm_DB.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\obj\Debug\netcoreapp2.1\IT_Firm_DB.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\obj\Debug\netcoreapp2.1\IT_Firm_DB.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\bin\Debug\netcoreapp2.1\IT_Firm_DB_Data.dll
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\bin\Debug\netcoreapp2.1\IT_Firm_DB_Models.dll
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\bin\Debug\netcoreapp2.1\IT_Firm_DB.pdb
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\bin\Debug\netcoreapp2.1\IT_Firm_DB_Data.pdb
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\bin\Debug\netcoreapp2.1\IT_Firm_DB_Models.pdb
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\obj\Debug\netcoreapp2.1\IT_Firm_DB.csproj.CopyComplete
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\obj\Debug\netcoreapp2.1\IT_Firm_DB.dll
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB\obj\Debug\netcoreapp2.1\IT_Firm_DB.pdb

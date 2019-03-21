@@ -1,0 +1,11 @@
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\bin\Debug\netcoreapp2.1\IT_Firm_DB_Models.deps.json
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\bin\Debug\netcoreapp2.1\IT_Firm_DB_Models.runtimeconfig.json
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\bin\Debug\netcoreapp2.1\IT_Firm_DB_Models.runtimeconfig.dev.json
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\bin\Debug\netcoreapp2.1\IT_Firm_DB_Models.dll
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\bin\Debug\netcoreapp2.1\IT_Firm_DB_Models.pdb
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\obj\Debug\netcoreapp2.1\IT_Firm_DB_Models.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\obj\Debug\netcoreapp2.1\IT_Firm_DB_Models.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\obj\Debug\netcoreapp2.1\IT_Firm_DB_Models.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\obj\Debug\netcoreapp2.1\IT_Firm_DB_Models.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\obj\Debug\netcoreapp2.1\IT_Firm_DB_Models.dll
+C:\Users\nikolaviktor3132\source\repos\AutoMappingObjects\IT_Firm_DB_Models\obj\Debug\netcoreapp2.1\IT_Firm_DB_Models.pdb

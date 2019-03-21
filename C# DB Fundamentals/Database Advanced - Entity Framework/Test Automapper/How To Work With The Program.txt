@@ -1,0 +1,5 @@
+1. Open your services for the database
+ 
+2 Go in Database - > IT_Firm_Db and open Connection.There you will be able to change your database connection string.
+
+3.Go in Tasks - > EmployeesMapping - > Program and press Cntrl+f5, wait for a while to create the database and go work with the commands which will be written on the console
