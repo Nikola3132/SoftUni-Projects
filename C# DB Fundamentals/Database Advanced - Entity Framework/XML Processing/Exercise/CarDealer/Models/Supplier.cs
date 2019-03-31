@@ -6,7 +6,7 @@
     {
         public Supplier()
         {
-            this.Parts = new List<Part>();
+            this.Parts = new HashSet<Part>();
         }
 
         public int Id { get; set; }
