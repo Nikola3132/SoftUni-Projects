@@ -1,0 +1,11 @@
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\bin\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\bin\Debug\netcoreapp2.0\VaporStore.pdb
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\obj\Debug\netcoreapp2.0\VaporStore.csproj.CoreCompileInputs.cache
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\obj\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\nikolaviktor3132\Desktop\AUTHOR Vapot\obj\Debug\netcoreapp2.0\VaporStore.pdb
